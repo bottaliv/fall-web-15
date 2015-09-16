@@ -1,0 +1,6 @@
+List of features for fitness app:
+
+1. Step counter 
+2. General excercise information
+3. User Profile input
+4. Food/caloric tracking
