@@ -11,7 +11,7 @@ session_start();
     }
     
     $_SESSION['food'] = $food;
-    header('Location: ./');
+    header('Location: ./food.php');
   }
     
   if(isset($_GET['id'])){
